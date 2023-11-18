@@ -1,7 +1,4 @@
-Title
-
-URL and thumbnail impersonation attack via Facebook messenger and linkshim "bypass"
-![shimmed-message](https://github.com/VitaminDDawg/facebook_messanger_url_spoofing/assets/116259185/f54cc352-c0d3-4207-b1e2-58ed3a2bae5d)
+**URL and thumbnail impersonation attack via Facebook messenger and linkshim "bypass"**
 
 Vuln Type
 Other
@@ -43,3 +40,7 @@ Mobile app version: 421.0.0.12.61
 6. On secondary test account click link. You will be redirected through personal linkshim and sent directly to external domain with no notification.
 
 7.(if original linkshim is "old" user is alerted to domain exit)
+
+Example:
+![shimmed-message](https://github.com/VitaminDDawg/facebook_messanger_url_spoofing/assets/116259185/020ef4e2-2ad7-4905-9762-08c374463c20)
+
