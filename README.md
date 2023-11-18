@@ -1,10 +1,14 @@
 Title
 
 URL and thumbnail impersonation attack via Facebook messenger and linkshim "bypass"
+![shimmed-message](https://github.com/VitaminDDawg/facebook_messanger_url_spoofing/assets/116259185/f54cc352-c0d3-4207-b1e2-58ed3a2bae5d)
+
 Vuln Type
 Other
+
 Product Area
 Messenger
+
 Description/Impact
 • Links within Facebook messenger do not display endpoint urls in their previews/thumbnails as they do
 normally within the public Facebook web&app interface leading to user "confusion".
