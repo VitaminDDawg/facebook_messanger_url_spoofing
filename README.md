@@ -1,5 +1,6 @@
 Title
-#URL and thumbnail impersonation attack via Facebook messenger and linkshim "bypass"
+
+URL and thumbnail impersonation attack via Facebook messenger and linkshim "bypass"
 Vuln Type
 Other
 Product Area
